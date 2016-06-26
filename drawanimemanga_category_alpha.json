@@ -4,6 +4,8 @@
                     "category_id":"1",
                     "category_name":"Naruto",
                     "category_thumbnail":"1.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
                     "is_video":"false",
                     "animes":[
                               {
@@ -132,6 +134,8 @@
                   "category_id":"3",
                   "category_name":"Death Note",
                   "category_thumbnail":"3.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -205,6 +209,8 @@
                   "category_id":"4",
                   "category_name":"One Piece",
                   "category_thumbnail":"4.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -313,6 +319,8 @@
                   "category_id":"6",
                   "category_name":"Fairy Tail",
                   "category_thumbnail":"6.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -421,6 +429,8 @@
                   "category_id":"7",
                   "category_name":"Sailor Moon",
                   "category_thumbnail":"7.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
