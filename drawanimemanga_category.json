@@ -1,6 +1,481 @@
 {
 	"categories":[
                   {
+                  "category_id":"11342",
+                  "category_name":"Anime Manga",
+                  "category_thumbnail":"11342.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga2/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Bleach Manga Logo",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Ichigo Kurosaki Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Ichigo Kurosaki Chibi Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Ichigo Kurosaki Mask Bleach",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Ichigo Kurosaki Face Bleach",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Rukia Kuchiki Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Rukia Kuchiki Face Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Uryu Ishida Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Uryu Ishida chibi Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Kon Bleach",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Orihime Inoue Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Yasutora Sado Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Kisuke Urahara Bleach",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"38",
+                            "anime_name":"Tatsuki Arisawa Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"39",
+                            "anime_name":"Toshiro Hitsugaya Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"40",
+                            "anime_name":"Ururu Tsumugiya Bleach",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"41",
+                            "anime_name":"Renji Abarai Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"42",
+                            "anime_name":"Isshin Kurosaki Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"43",
+                            "anime_name":"Zaraki Kenpachi Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"44",
+                            "anime_name":"Byakuya Kuchiki Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"45",
+                            "anime_name":"Ulquiorra Schiffer Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Lelouch Lamperouge Code Geass",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Hei Darker than Black",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Light Yagami Death Note",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"50",
+                            "anime_name":"Yagami Kira face Death Note",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"51",
+                            "anime_name":"Yagami Kira Death Note",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"52",
+                            "anime_name":"Yagami Kira Death Note",
+                            "anime_step":24
+                            },
+                            {
+                            "anime_id":"53",
+                            "anime_name":"Yagami Kira chibi Death Note",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"54",
+                            "anime_name":"L Lawliet face Death Note",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"55",
+                            "anime_name":"L Lawliet Death Note",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"56",
+                            "anime_name":"L Lawliet chibi  Death Note",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"57",
+                            "anime_name":"Misa Amane sexy Death Note",
+                            "anime_step":19
+                            },
+                            {
+                            "anime_id":"58",
+                            "anime_name":"Misa Amane face Death Note",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"59",
+                            "anime_name":"Misa Amane Death Note",
+                            "anime_step":29
+                            },
+                            {
+                            "anime_id":"60",
+                            "anime_name":"Near Nate River Death Note",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"61",
+                            "anime_name":"Mello Mihael Keehl Death Note",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"62",
+                            "anime_name":"Ryuk Death Note",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Goku Dragon Ball",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Vegeta face Dragon Ball",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Vegeta Dragon Ball",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Gohan Dragon Ball",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Natsu Dragneel Fairy Tail",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Edward Elric Fullmetal Alchemist",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Itachi Uchiha face Naruto",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"70",
+                            "anime_name":"Kakashi Hatake Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"71",
+                            "anime_name":"Kakashi Hatake face Naruto",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"72",
+                            "anime_name":"Naruto Uzumaki Naruto",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"73",
+                            "anime_name":"Naruto Uzumaki face Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"74",
+                            "anime_name":"Sasuke Uchiha Naruto",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"75",
+                            "anime_name":"Sasuke Uchiha face Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"76",
+                            "anime_name":"Iruka Umino Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"77",
+                            "anime_name":"Sakura Haruno Naruto",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"78",
+                            "anime_name":"Rock Lee Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"79",
+                            "anime_name":"Gaara Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"80",
+                            "anime_name":"Haku Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"81",
+                            "anime_name":"Zabuza Momochi Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"82",
+                            "anime_name":"Hinata Hyuga Naruto",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"83",
+                            "anime_name":"Anko Mitarashi Naruto",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"84",
+                            "anime_name":"Neji Hyuga Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"85",
+                            "anime_name":"Kurenai Yuhi Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"86",
+                            "anime_name":"Orochimaru Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"87",
+                            "anime_name":"Ibiki Morino Naruto",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"88",
+                            "anime_name":"Asuma Sarutobi Naruto",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"89",
+                            "anime_name":"Shizune Naruto",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"90",
+                            "anime_name":"Konohamaru Sarutobi Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"91",
+                            "anime_name":"Jiraiya Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"92",
+                            "anime_name":"Itachi Uchiha Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"93",
+                            "anime_name":"Hinata Hyuga 2 Naruto",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Monkey D. Luffy One Piece",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Roronoa Zoro One Piece",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Moka Akashiya Rosario and Vampire",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Himura Kenshin Rurouni Kenshin",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Yusuke Urameshi YuYu Hakusho",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"100",
+                            "anime_name":"Roronoa Zoro Face One Piece",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"101",
+                            "anime_name":"Roronoa Zoro One Piece",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"102",
+                            "anime_name":"Portgas D. Ace One Piece",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"103",
+                            "anime_name":"Portgas D. Ace Face One Piece",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"104",
+                            "anime_name":"Dracule Mihawk One Piece",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"105",
+                            "anime_name":"Dracule Mihawk Face One Piece",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"106",
+                            "anime_name":"Shanks One Piece",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"107",
+                            "anime_name":"Shanks Face One Piece",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"108",
+                            "anime_name":"Monkey D. Luffy One Piece",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"109",
+                            "anime_name":"Doflamingo One Piece",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"110",
+                            "anime_name":"Marco One Piece",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"111",
+                            "anime_name":"Kizaru One Piece",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"112",
+                            "anime_name":"Crocodile One Piece",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"113",
+                            "anime_name":"Zanji One Piece",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"114",
+                            "anime_name":"Rob Lucci One Piece",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"115",
+                            "anime_name":"Enel One Piece",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"116",
+                            "anime_name":"Magellan One Piece",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"117",
+                            "anime_name":"Benn Beckman One Piece",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"118",
+                            "anime_name":"Trafalgan Law One Piece",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"119",
+                            "anime_name":"Monkey D. Dragon One Piece",
+                            "anime_step":14
+                            }
+                            ]
+                  },
+                  {
                     "category_id":"1",
                     "category_name":"Naruto",
                     "category_thumbnail":"1.png",
