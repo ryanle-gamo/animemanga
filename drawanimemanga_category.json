@@ -9,6 +9,46 @@
                   "is_video":"false",
                   "animes":[
                             {
+                            "anime_id":"39",
+                            "anime_name":"Toshiro Hitsugaya Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"40",
+                            "anime_name":"Ururu Tsumugiya Bleach",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"41",
+                            "anime_name":"Renji Abarai Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"42",
+                            "anime_name":"Isshin Kurosaki Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"43",
+                            "anime_name":"Zaraki Kenpachi Bleach",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"44",
+                            "anime_name":"Byakuya Kuchiki Bleach",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"45",
+                            "anime_name":"Ulquiorra Schiffer Bleach",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Lelouch Lamperouge Code Geass",
+                            "anime_step":9
+                            },
+                            {
                             "anime_id":"25",
                             "anime_name":"Bleach Manga Logo",
                             "anime_step":6
@@ -76,46 +116,6 @@
                             {
                             "anime_id":"38",
                             "anime_name":"Tatsuki Arisawa Bleach",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"39",
-                            "anime_name":"Toshiro Hitsugaya Bleach",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"40",
-                            "anime_name":"Ururu Tsumugiya Bleach",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"41",
-                            "anime_name":"Renji Abarai Bleach",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"42",
-                            "anime_name":"Isshin Kurosaki Bleach",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"43",
-                            "anime_name":"Zaraki Kenpachi Bleach",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"44",
-                            "anime_name":"Byakuya Kuchiki Bleach",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"45",
-                            "anime_name":"Ulquiorra Schiffer Bleach",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Lelouch Lamperouge Code Geass",
                             "anime_step":9
                             },
                             {
