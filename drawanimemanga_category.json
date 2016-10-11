@@ -951,6 +951,286 @@
                             ]
                   },
                   {
+                  "category_id":"17",
+                  "category_name":"Gintama",
+                  "category_thumbnail":"17.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Sakata Gintoki",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Sakata Gintoki Chibi",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Okita Sougo",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Okita Sougo Chibi",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Hijikata Toshiro",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Shimura Shinpachi",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Kagura",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Kagura Chibi",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Sadaharu",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Katsura Kotaro",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Kondo Isao",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Takasugi Shinsuke",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Elizabeth",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Sarutobi Ayame",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Tsukuyo",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"18",
+                  "category_name":"One Punch Man",
+                  "category_thumbnail":"18.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Saitama Chibi",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Saitama",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Genos Chibi",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Genos",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Sonic Chibi",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Sonic",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Fubuki",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Tatsumaki",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Garou",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Sweet Mask",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"License-less Rider",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Iaian",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Metal Knight",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Pri-Pri-Prisoner",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Stinger",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"19",
+                  "category_name":"Attack On Titan",
+                  "category_thumbnail":"19.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Annie Leonhardt",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Armin Arlert",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Armin Chibi",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Bertolt Hoover",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Coloss Chibi",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Colossal Titan",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Eren Jaeger",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Eren Chibi",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Erwin Smith",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Hanji Zoe",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Jean Kirstein",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Konnie Springer",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Krista Lenz",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Levi Ackerman",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Marco Bott",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Mikasa Chibi",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Mikasa Ackerman",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Reiner Braun",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Sasha Braus",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Ymir",
+                            "anime_step":14
+                            }
+                            ]
+                  },
+                  {
                   "category_id":"13",
                   "category_name":"Code Geass Anime",
                   "category_thumbnail":"13.png",
