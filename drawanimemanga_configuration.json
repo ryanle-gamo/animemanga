@@ -1,8 +1,8 @@
 {
-    "latest_version":"1.1.0",
+    "latest_version":"1.1.1",
     "is_admob_in_grid":true,
     "is_admob":true,
-    "version":"PRODUCTION",
+    "version":"ALPHA",
     "home_ads_fullscreen_type":1,
     "grid_ads_fullscreen_type":3,
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/drawanimemanga_category.json",
