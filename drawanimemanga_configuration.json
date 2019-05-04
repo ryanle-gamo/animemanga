@@ -1,7 +1,7 @@
 {
     "latest_version":"1.1.1",
-    "is_admob_in_grid":true,
-    "is_admob":true,
+    "is_admob_in_grid":false,
+    "is_admob":false,
     "version":"PRODUCTION",
     "home_ads_fullscreen_type":1,
     "grid_ads_fullscreen_type":3,
