@@ -1,0 +1,9 @@
+{
+"latest_version": "1.1.0",
+"is_testing": true,
+"is_update_forced": false,
+"category_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/drawanimemanga_category.json",
+"category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/drawanimemanga_category_alpha.json",
+"file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+"appstore_url": "https://apps.apple.com/us/app/id1035103322"
+}
